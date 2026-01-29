@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Webpage</title>
+</head>
+<body style="font-family: Arial; background-color: #f2f2f2; text-align: center;">
+
+    <h1>VICTOR OSELOKA</h1>
+
+    <img src="myphoto.jpg" alt="My Picture" width="200" style="border-radius: 10px;">
+
+    <h2>About Me</h2>
+
+    <p>
+My name is Victor Oseloka. I am a Nigerian, an Igbo man by tribe, who hails from Anambra state, Idemili North local government Area, and an African by race. I am passionate about learning computer programming, technology, and understanding how the digital world works. I enjoy reading, exploring new ideas, and building simple projects that help me grow my skills and creativity. And also ready to learn and explore other areas of diversification in knowledge acquired, thereby solving and addressing issues and problems around me.!
+    </p>
+
+</body>
+</html>
